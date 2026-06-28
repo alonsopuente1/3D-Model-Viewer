@@ -13,11 +13,11 @@ The project uses OpenGL as the renderer API, is built in C++ and supports 40+ di
 
 Run the following commands
 
-'''
+```
 git clone https://github.com/alonsopuente1/3D-Model-Viewer.git
 cd 3D-Model-Viewer
 make -j
-'''
+```
 
 Then the executable will be compiled into the root directory, the 'build' directory only contains the intermediate object files compiler produces
 
